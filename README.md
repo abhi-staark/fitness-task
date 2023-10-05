@@ -20,6 +20,18 @@ WellBeing is your ultimate fitness companion. Whether you're just getting starte
 
 Stay committed to your well-being with WellBeing. It's time to live your healthiest life!
 
+**Screenshots:**
+
+![WhatsApp Image 2023-10-05 at 11 04 08](https://github.com/abhi-staark/fitness-task/assets/88762793/eb52abb4-f1d7-4127-8a1e-82894e0092cf)
+
+![WhatsApp Image 2023-10-05 at 11 00 43](https://github.com/abhi-staark/fitness-task/assets/88762793/14a2f7ff-8f24-4b92-9cfd-0bd05a02c11d)
+
+![WhatsApp Image 2023-10-05 at 11 00 44 (2)](https://github.com/abhi-staark/fitness-task/assets/88762793/bce6d49b-096c-4e9e-a6e3-ac514b1367bd)
+
+![WhatsApp Image 2023-10-05 at 11 00 44 (1)](https://github.com/abhi-staark/fitness-task/assets/88762793/3a25f4e2-9b73-482b-81ec-f024871f8e4c)
+
+![WhatsApp Image 2023-10-05 at 11 00 44](https://github.com/abhi-staark/fitness-task/assets/88762793/c0339735-9565-44c0-b24f-d22d9d62cccd)
+
 **Installation:**
 
 1. Clone the repository to your local machine.
